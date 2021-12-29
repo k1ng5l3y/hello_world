@@ -3,3 +3,4 @@ hello every one
 jaguns 
 this was added to help me verify git-it.
 same as the last line.
+test.
